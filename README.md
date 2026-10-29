@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Remind-QA-8B5CF6?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Remind-QA" />
   <img src="https://img.shields.io/badge/Quality_Assurance-7C3AED?style=for-the-badge" alt="Quality Assurance" />
-  <img src="https://img.shields.io/badge/Status-Em_desenvolvimento-A78BFA?style=for-the-badge" alt="Em desenvolvimento" />
+
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ O Remind-QA propõe reunir essas informações para facilitar o acompanhamento d
 
 ## Funcionalidades
 
-> A aplicação está em desenvolvimento. Os itens abaixo representam o escopo planejado e devem ser atualizados conforme eu for atualizando.
+> A aplicação está em desenvolvimento e pode sofrer alterações. Os itens abaixo representam o escopo planejado e devem ser atualizados conforme eu for estudando.
 
 ### Gestão de projetos
 - Organização dos projetos de software.
