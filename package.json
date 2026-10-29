@@ -1,0 +1,10 @@
+{
+  "name": "remindqa",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "scripts": {
+    "dev:api": "npm run dev -w apps/api",
+    "dev:web": "npm run dev -w apps/web",
+    "test": "npm run test --workspaces --if-present"
+  }
+}
